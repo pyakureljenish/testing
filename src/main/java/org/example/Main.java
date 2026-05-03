@@ -16,4 +16,3 @@ public class Main {
     }
 }
 
-//hi this is dummykk
